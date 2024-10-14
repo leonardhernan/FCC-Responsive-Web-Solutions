@@ -1,6 +1,6 @@
 # Python script to create HTML files named Lesson 1 to Lesson 10
 
-for i in range(10, 70):
+for i in range(2, 92):
     filename = f"Lesson {i}.html"
     # HTML content template
     html_content = f""""""
